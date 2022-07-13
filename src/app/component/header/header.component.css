@@ -1,0 +1,18 @@
+a {
+  color: white;
+}
+.form-control {
+  border-radius: 5px;
+  width: 500px;
+  margin-left: 25px;
+}
+.search-icon {
+  position: absolute;
+  z-index: 10;
+  right: 53%;
+  top: 23px;
+  color: aqua;
+}
+.btn {
+  bottom: 10px;
+}
